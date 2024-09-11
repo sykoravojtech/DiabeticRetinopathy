@@ -1,4 +1,5 @@
-# DiabeticRetinopathy
+# KAGGLE: DiabeticRetinopathy
+https://www.kaggle.com/competitions/diabetic-retinopathy-detection/overview
 
 Create env
 ```
